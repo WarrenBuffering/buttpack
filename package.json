@@ -1,0 +1,23 @@
+{
+    "bin": {
+        "buttpack": "./build.sh"
+    },
+    "name": "buttpack",
+    "version": "1.0.0",
+    "description": "like webpack and gulp had a (faster) baby that just works",
+    "main": "index.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "webpack",
+        "gulp",
+        "rollup",
+        "buttpack"
+    ],
+    "author": "Warren Buffering",
+    "license": "MIT"
+}
