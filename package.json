@@ -3,7 +3,7 @@
         "buttpack": "./build.sh"
     },
     "name": "buttpack",
-    "version": "1.0.1",
+    "version": "2.0.0",
     "description": "like webpack and gulp had a (faster) baby that just works",
     "main": "index.js",
     "directories": {
